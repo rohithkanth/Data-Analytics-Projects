@@ -1,1 +1,2 @@
-
+# IBM Data Analyst Professional Certificate by Coursera
+This IBM Professional Certificate is earned after successfully completing 9 courses on various topics in Data Analytics. I managed to understand the core principles of data analysis and has worked hands-on with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Relational Databases, Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation, data analysis, and data visualization
