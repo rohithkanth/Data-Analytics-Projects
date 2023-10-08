@@ -12,6 +12,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of contents
 - [About](https://github.com/rohithkanth/Rohith_Kanth_portfolio/blob/main/Readme.md#about)
+
+-Portfolio Projects
+
   - Python
     - ...
   - SQL
