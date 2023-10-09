@@ -13,27 +13,32 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of contents
 - [About](https://github.com/rohithkanth/Rohith_Kanth_portfolio/blob/main/Readme.md#about)
 
-- Portfolio Projects
+- [Portfolio Projects](https://github.com/rohithkanth/Rohith_Kanth_portfolio/blob/main/Readme.md#portfolio-projects)
 
   - Python
-    - ...
+    - [Stack Overflow Developer Survey 19](https://github.com/rohithkanth/Rohith_Kanth_portfolio/tree/main/Projects%20on%20Data%20Analysis/Stack%20Overflow%20Developer%20Survey%2019)
   - SQL
-    - ...
-  - Excel / Google Sheets
-    - ...
-  - Tableau---> [go to Tableau..]()
+    - [Covid 19 Data Exploration]() 
+  - Excel 
+    - [Coffee sales](https://github.com/rohithkanth/Rohith_Kanth_portfolio/tree/main/Projects%20on%20Data%20Analysis/Creating%20Excel%20Dashboard)
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/rohith.kanth.dumpeti/vizzes)
+    - [Housing Sales](https://github.com/rohithkanth/Rohith_Kanth_portfolio/tree/main/Projects%20on%20Data%20Analysis/Visualization%20using%20Tableau)
   - Power BI
+    - [KPMG AU Virtual Internship Project](https://github.com/rohithkanth/Rohith_Kanth_portfolio/tree/main/Projects%20on%20Data%20Analysis/KPMG%20AU%20Virtual%20Internship%20Project)
   
 - [Education](https://github.com/rohithkanth/Rohith_Kanth_portfolio/blob/main/Readme.md#education)  
 - [Certificates](https://github.com/rohithkanth/Rohith_Kanth_portfolio/blob/main/Readme.md#certificates)
 - [Contact](https://github.com/rohithkanth/Rohith_Kanth_portfolio/blob/main/Readme.md#contacts)
 
+## Portfolio Projects
+In this section I will list data analytics projects briefly.
+
 ## Education
-High School: Aryabhatta Concept School - Warangal, Telangana, India, 2017
+**High School**: Aryabhatta Concept School - Warangal, Telangana, India, 2017
 
-Intermediate : Sri Chaithanya Junior College - Hyderabad, Telangana, India, 2017-2019
+**Intermediate** : Sri Chaithanya Junior College - Hyderabad, Telangana, India, 2017-2019
 
-Bachelor of Technology : VNR Vignana Jyothi Institute of Engineering and Technology from Information Technology - Hyderabad, Telangana, India, 2019-2023
+**Bachelor of Technology** : VNR Vignana Jyothi Institute of Engineering and Technology from Information Technology - Hyderabad, Telangana, India, 2019-2023
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have :
