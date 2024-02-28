@@ -6,7 +6,7 @@ In my 4 years of Bachelor's I got a keen Intrest on SQL and Python, being a pers
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [pdf]().
+My CV in [pdf](https://drive.google.com/file/d/1bPCZGkfFr5GPpPXyWpvdqIa8eEZNGTct/view?usp=sharing).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics.
 
@@ -48,3 +48,5 @@ The best way to showcase skills is by doing and sharing your job done but someti
 ## Contacts
 - LinkedIn: [@rohithkanth](https://www.linkedin.com/in/rohith-kanth-dumpeti-6b3317197/)
 - Email: rohithkanth272@gmail.com
+
+[def]: https://drive.google.com/file/d/1c_qHZR4aaFMxgpSbA2BwlnB_b7MFzmYh/view?usp=sharing
